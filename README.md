@@ -61,4 +61,22 @@ const announceLunch = mealCall(‘breakfast’);
 announceDinner(‘hey!, come and get your’);
 announceLunch(‘Rise and shine! time for’);
 
-6-
+
+6-pure functions with implicit parameter definitions in function:
+
+public void Edit(int CourseID,string ClassName,string Teacher,string Date,int StudentID)
+    {
+        string sql = @"UPDATE Album SET  ClassName='{0}',Teacher='{1}',Date='{2}'  where CourseID={3} and StudentID={4}";
+
+        sql = string.Format(sql,ClassName, Teacher, Date,CourseID,StudentID);
+
+         Connect&Disconnect(Sql);
+    }
+
+    //just connect and disconnet to database
+     public void Connect&Disconnect(string Sql)
+	 {
+	DA.Connect();
+        DA.DoCommand(Sql);
+        DA.Disconnect();
+	 }
