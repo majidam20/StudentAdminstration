@@ -1,7 +1,9 @@
 # StudentAdminstration
 Pet project of advanced software engineering.
 
-This application is about student administration and student registration in university based on c#.net Programming!
+This is a github repository containing my code for the solution to the assignment of the Advanced Software Engineering course at Beuth Hochschule, Berlin.
+
+This Project is about student administration and student registration in university based on c#.Net Programming!
 
 Note: i have described points in some photo's file.
 
