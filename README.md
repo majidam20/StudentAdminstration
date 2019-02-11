@@ -1,7 +1,7 @@
 # StudentAdminstration
 Pet project of advanced software engineering.
 
-This is a github repository containing my code for the solution to the assignment of the Advanced Software Engineering course at Beuth Hochschule, Berlin.
+This is a github repository containing my project for the Advanced Software Engineering course at Beuth Hochschule, Berlin
 
 This Project is about student administration and student registration in university based on c#.Net Programming!
 
