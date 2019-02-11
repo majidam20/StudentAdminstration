@@ -1,1 +1,1 @@
-http://localhost:9000/api/project_badges/measure?project=org.sonarqube%3Asonar-scanner-msbuild&metric=alert_status
+SonarScanner.MSBuild.exe begin /k:"org.sonarqube:sonar-scanner-msbuild" /d:sonar.organization="majidam20-github" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login="0643ef40b6d4e6e885d46153d58fca900d168a5a"
