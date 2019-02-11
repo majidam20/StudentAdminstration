@@ -2,8 +2,9 @@
 
 This is a github repository containing my project for the Advanced Software Engineering course at Beuth Hochschule, Berlin.
 
-This Project is about student administration and student registration in university based on c#.Net Programming.
+The aim of this project is to create a software for the Student Administration office at university for managing student activities such as admissions and registrations for courses.
 
-Note: i have described some points in screenshots file.
+The software was written in C#.Net.
+
 
 
